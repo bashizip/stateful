@@ -48,7 +48,7 @@ Location: http://localhost:8080/statefulapp/resources/machines/duke
 (…)
 ```
 
-## retrieve SXML definition for a particular machine
+## retrieve SCXML definition for a particular machine
 ```
 curl http://localhost:8080/statefulapp/resources/machines/duke
 ```
